@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cofla159/0608-react-practice.git/static/css/main.073c9b0a.css",
+    "main.js": "/cofla159/0608-react-practice.git/static/js/main.947125c5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/cofla159/0608-react-practice.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/cofla159/0608-react-practice.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cofla159/0608-react-practice.git/index.html",
+    "main.073c9b0a.css.map": "/cofla159/0608-react-practice.git/static/css/main.073c9b0a.css.map",
+    "main.947125c5.js.map": "/cofla159/0608-react-practice.git/static/js/main.947125c5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/cofla159/0608-react-practice.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.947125c5.js"
+  ]
+}
